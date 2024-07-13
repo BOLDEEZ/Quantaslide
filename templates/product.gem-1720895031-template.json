@@ -1,0 +1,77 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "product": {
+      "type": "main-product",
+      "blocks": {
+        "9f890950-ea6e-406e-a5bf-bf88b3e0990d": {
+          "type": "text",
+          "settings": {
+            "inline_text": "{{ product.vendor }}"
+          }
+        },
+        "d8f481ef-d5e8-4624-89cf-268f36e32430": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "8ee3d50a-8fd9-461f-a826-891bfbc6422c": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "405432a5-e407-438a-a058-f92607488a09": {
+          "type": "variant_picker",
+          "settings": {
+          }
+        },
+        "6f45acd0-c8e1-400d-ba95-df7d69ca5dc8": {
+          "type": "quantity_input",
+          "settings": {
+          }
+        },
+        "ebd72618-5faa-4273-92ff-69261c1bc6ce": {
+          "type": "buy_button",
+          "settings": {
+            "enable_payment_button": true
+          }
+        },
+        "b4b5f14d-6826-4c40-a3a2-1d56f6fbfe9f": {
+          "type": "description",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "9f890950-ea6e-406e-a5bf-bf88b3e0990d",
+        "d8f481ef-d5e8-4624-89cf-268f36e32430",
+        "8ee3d50a-8fd9-461f-a826-891bfbc6422c",
+        "405432a5-e407-438a-a058-f92607488a09",
+        "6f45acd0-c8e1-400d-ba95-df7d69ca5dc8",
+        "ebd72618-5faa-4273-92ff-69261c1bc6ce",
+        "b4b5f14d-6826-4c40-a3a2-1d56f6fbfe9f"
+      ],
+      "settings": {
+        "media_width": "large",
+        "media_position": "left"
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "product",
+    "related-products"
+  ]
+}
