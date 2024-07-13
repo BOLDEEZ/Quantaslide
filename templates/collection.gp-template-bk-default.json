@@ -8,6 +8,10 @@
 * ------------------------------------------------------------
 */
 {
+  "order": [
+    "collection-banner",
+    "main-collection"
+  ],
   "sections": {
     "collection-banner": {
       "type": "collection-banner",
@@ -23,9 +27,5 @@
         "mobile_column": "col-6"
       }
     }
-  },
-  "order": [
-    "collection-banner",
-    "main-collection"
-  ]
+  }
 }
